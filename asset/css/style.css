@@ -5,3 +5,18 @@
 .navbar-collapse{
     flex-grow: 0;
 }
+
+.bg-green-light{
+    background-color: #1abc9c;
+}
+
+#avatar{
+    height: 200px;
+}
+
+.linea-bianca{
+    width: 75px;
+    height: 3px;
+    background-color: white;
+}
+
