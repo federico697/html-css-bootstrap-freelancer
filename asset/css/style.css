@@ -30,3 +30,12 @@
     border-bottom: 1px solid lightgray;
 }
 
+footer .circle{
+    border-radius: 50%;
+    border: 1px solid white;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    text-align: center;
+}
+
